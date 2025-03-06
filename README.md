@@ -18,5 +18,3 @@ Developed an interactive Rock-Paper-Scissors web application using HTML, CSS, an
 -> Front-End: HTML, CSS, JavaScript
 
 -> Game Logic: JavaScript (DOM Manipulation, Event Handling, Randomization)
-
-This project demonstrates my ability to build interactive web applications, apply JavaScript logic, and enhance user experience through front-end development.
